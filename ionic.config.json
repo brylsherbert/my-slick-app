@@ -1,0 +1,8 @@
+{
+  "name": "My Slick App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "647b9d72"
+}
